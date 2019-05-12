@@ -6,7 +6,7 @@ SaveCodeForJobInterviews
 The Process of Dealing with the project:
 
 <1> By Python Programming: Please Open Clients.py
-<----We would like to find out which months we had most Client Contacts--->
+<----We would like to find out which month we had most Client Contacts--->
 
     1 We should sepreate and Count How Many Clients we contacted each times, by spliting them with comma","
     2 We Find out that All the Date Tpye is yyyy-mm-dd
@@ -16,7 +16,7 @@ The Process of Dealing with the project:
       3.2 Utilize Pandas and Numpys Packages to GroupBy and Percentaging them
     4 We can make a visulaztion to make the result more clear
 
- p.s all the package and all steps comments I put it in the Clients.py
+ p.s all the packages and all steps comments I put it in the Clients.py and Result.png can see the pie chart
  
  <2> By Excel Pivot Table : Please Open HireArt - Data Analyst Exercise 10.12.17.xlsx
  
