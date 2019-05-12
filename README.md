@@ -5,7 +5,7 @@ SaveCodeForJobInterviews
 
 The Process of Dealing with the project:
 
-<1> By Python Programming 
+<1> By Python Programming: Please Open Clients.py
 <----We would like to find out which months we had most Client Contacts--->
 
     1 We should sepreate and Count How Many Clients we contacted each times, by spliting them with comma","
@@ -18,9 +18,10 @@ The Process of Dealing with the project:
 
  p.s all the package and all steps comments I put it in the Clients.py
  
- <2> By Excel Pivot Table
+ <2> By Excel Pivot Table : Please Open HireArt - Data Analyst Exercise 10.12.17.xlsx
  
     1 split column of Clients Name by comma','
-    2 Change the datatype of DATE into Month
-    3 Create a pivot table
-    4 Group by the Month 
+    2 Create a pivot table of Count of Clients and Month
+    3 Group by the Month and display by Month
+    4 Row is DateOfContact and Value is the CountOfClients
+    
